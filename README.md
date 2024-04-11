@@ -39,32 +39,34 @@ You need to create objects that will handle the retrieval of the csv files to co
 These are EmployeeDA and EmployeeDA objects. This will be the execution of the sequence:
 
 ![image](https://github.com/DeenDelaCruz/Lab-Assignment-5-OOP/assets/120246740/d9d71326-f00e-4f79-aa27-ae209c6f39a5)
-</p>
-<pre>
+
 This will be the sample generated report:
-Department code: IT
-Department name: Information Tech
-Department total salary: 126,000.00
----------------------Details -------------------------
-EmpNo		 Employee Name	Salary
-E123		Maxwell, John			30,000.00
-E125		Ortiz, Manuel			51,000.00
-E124		Delos Reyes, Ernesto		45,000.00
+</p>
 
-Department code: HR
-Department name: Human Resource
-Department total salary: 91,000.00
+<pre>
+Department Code: IT
+Department Name: Information Tech
+Department Total Salary: 126,000.00
 ---------------------Details -------------------------
-EmpNo		 Employee Name	Salary
-E252		Rosanto, Margareth		25,000.00
-E251		Natividad, Lisa		66,000.00
+EmpNo           Employee Name           Salary
+E123            Maxwell, John           30,000.00
+E125            Ortiz, Manuel           51,000.00
+E124            Delos Reyes, Ernesto    45,000.00
 
-Department code: FNC
-Department name: Finance
-Department total salary: 108,000.00
+Department Code: HR
+Department Name: Human Resource
+Department Total Salary: 91,000.00
 ---------------------Details -------------------------
-EmpNo		 Employee Name	Salary
-E370		Baldo, Jason			42,000.00
-E371		Hernandez, Timothy		29,000.00
-E372		Cruz, Ricardo			37,000.00
+EmpNo           Employee Name           Salary
+E252            Rosanto, Margareth      25,000.00
+E251            Natividad, Lisa         66,000.00
+
+Department Code: FNC
+Department Name: Finance
+Department Total Salary: 108,000.00
+---------------------Details -------------------------
+EmpNo           Employee Name           Salary
+E370            Baldo, Jason            42,000.00
+E371            Hernandez, Timothy      29,000.00
+E372            Cruz, Ricardo           37,000.00
 </pre>
